@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://l4fu040.github.io/Xin-Zhu-Homestay/sitemap.xml
